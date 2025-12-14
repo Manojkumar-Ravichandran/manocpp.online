@@ -15,10 +15,38 @@ export default function Contact() {
 
       <p className="text-gray-700">Let's connect!</p>
 
-      <div className="mt-4 space-y-2">
-        <p><strong>Email:</strong> manojkumar.work1@gmail.com</p>
-        <p><strong>Phone:</strong> +91 9600879006</p>
-        <p><strong>LinkedIn:</strong> linkedin.com/in/manocpp</p>
+      <div className="mt-4 space-y-2 text-gray-800">
+        <p>
+          <strong>Email:</strong>{" "}
+          <a
+            href="mailto:manojkumar.work1@gmail.com"
+            className="text-blue-600 hover:underline"
+          >
+            manojkumar.work1@gmail.com
+          </a>
+        </p>
+
+        <p>
+          <strong>Phone:</strong>{" "}
+          <a
+            href="tel:+919600879006"
+            className="text-blue-600 hover:underline"
+          >
+            +91 9600879006
+          </a>
+        </p>
+
+        <p>
+          <strong>LinkedIn:</strong>{" "}
+          <a
+            href="https://www.linkedin.com/in/manocpp"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 hover:underline"
+          >
+            linkedin.com/in/manocpp
+          </a>
+        </p>
       </div>
     </section>
   );
