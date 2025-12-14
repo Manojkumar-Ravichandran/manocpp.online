@@ -9,7 +9,7 @@ export default function Skills() {
     "React JS",
     "MongoDB",
     "MySQL",
-    "JWT / OAuth2 / CSRF",
+    // "JWT / OAuth2 / CSRF",
     "API Integration",
     "Tailwind CSS",
   ];
