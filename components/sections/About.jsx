@@ -11,9 +11,10 @@ export default function About() {
           </h2>
           <p className="mt-5 text-base leading-7 text-slate-600">
             I am a Full Stack Developer with experience in Java, Spring Boot, React, and SQL. I transitioned
-            from mechanical engineering into software development, bringing analytical thinking, process
-            understanding, and a passion for building real-world applications. I enjoy solving problems,
-            optimizing systems, and creating responsive user interfaces.
+            from mechanical engineering—where I earned my Bachelor's and Diploma with strong academic
+            standing—into software development. This background brings a unique perspective on systems,
+            analytical problem-solving, and process optimization to my work in building resilient web
+            applications.
           </p>
         </div>
         <div className="grid gap-4">

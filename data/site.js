@@ -4,19 +4,19 @@ export const site = {
   profile: "/images/profile.jpg",
   tagline: "Full stack developer focused on Java, Spring Boot, React, and SQL.",
   description:
-    "I build reliable web applications that connect clean user experiences with dependable APIs and data layers.",
+    "I am a Full Stack Developer transitioning from mechanical engineering, bringing a strong analytical foundation and process-driven approach to software development. I specialize in building reliable web applications using Java, Spring Boot, React, and SQL, focusing on clean user experiences and dependable backend architectures.",
   highlights: [
     {
-      title: "Full-stack delivery",
-      desc: "Hands-on work across backend services, database modeling, and responsive UIs.",
+      title: "Full-Stack Expertise",
+      desc: "Hands-on experience in building integrated systems with Java (Spring Boot) and modern React frontends.",
     },
     {
-      title: "Engineering + QA mindset",
-      desc: "A background in quality engineering brings rigor, clarity, and attention to detail.",
+      title: "Analytical Engineering Root",
+      desc: "My background in mechanical engineering instills a rigorous approach to problem-solving and system optimization.",
     },
     {
-      title: "Workflow optimization",
-      desc: "Focused on streamlining processes, improving visibility, and reducing friction for teams.",
+      title: "Reliability & Quality",
+      desc: "Experience in quality engineering ensures that every product I build is robust, well-documented, and efficient.",
     },
   ],
   email: "manojkumar.work1@gmail.com",
