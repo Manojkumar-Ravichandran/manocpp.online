@@ -7,7 +7,7 @@ import Contact from "@/components/sections/Contact";
 
 export default function Home() {
   return (
-    <main>
+    <main id="top" className="overflow-hidden">
       <Hero />
       <About />
       <Skills />
